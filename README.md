@@ -19,7 +19,7 @@ Project 2: Solar Thermal System Loop
 
 Objective: Observe transient energy storage, fluid volume expansion, and temperature rise in a closed-loop system over time.
 
-Key Components Built: Solar collector plate, storage tank, circulation pump, valve, system expansion tank
+Key Components Built: SolarCollector, StorageTank, CirculationPump, Valve, SystemExpansionTank
 
 Key learning takeaways:
 - Applied basic mass and energy balance equations directly into Modelica code.
