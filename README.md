@@ -5,6 +5,7 @@ A collection of first-principles thermal system simulations built in Modelica / 
 
 
 Project 1: A 25 kW Data Center One-Way Cooling Loop
+
 A digital twin simulation of an IT cooling circuit built to study heat transfer from server racks down to an outdoor chiller boundary.
 
 Objective: Understand how varying fluid flow rates and valve positions affect room air and water return temperatures.
