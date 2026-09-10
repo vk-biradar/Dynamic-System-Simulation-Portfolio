@@ -1,9 +1,7 @@
 # Dynamic-System-Simulation-Portfolio
 A hands-on exploration of dynamic thermal-fluid system modelling projects in Modelica/ Dymola
 
-A collection of first-principles thermal system simulations built in Modelica / Dymola. This self-learning repository explores dynamic heat transfer, mass flow transport, and transient fluid behavior across two practical engineering loops: 
-1: A 25 kW Data Center Cooling Loop
-2: A Closed-Loop Solar Thermal System
+A collection of first-principles thermal system simulations built in Modelica / Dymola. This self-learning repository explores dynamic heat transfer, mass flow transport, and transient fluid behavior across two practical engineering loops: - A 25 kW Data Center Cooling Loop - A Closed-Loop Solar Thermal System
 
 Project 1: A 25 kW Data Center One-Way Cooling Loop
 A digital twin simulation of an IT cooling circuit built to study heat transfer from server racks down to an outdoor chiller boundary.
