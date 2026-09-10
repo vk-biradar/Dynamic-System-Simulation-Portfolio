@@ -7,12 +7,15 @@ Project 1: A 25 kW Data Center One-Way Cooling Loop
 A digital twin simulation of an IT cooling circuit built to study heat transfer from server racks down to an outdoor chiller boundary.
 
 Objective: Understand how varying fluid flow rates and valve positions affect room air and water return temperatures.
+
 Core Physics: Lumped air heat capacity, heat exchanger effectiveness and mass/energy conservation.
+
 Key Components Built: ServerRoom, CRAH, PumpSkid & ControlValve, AirCooledChiller
 
 Project 2: Solar Thermal System Loop
 
 Objective: Observe transient energy storage, fluid volume expansion, and temperature rise in a closed-loop system over time.
+
 Key Components Built: Solar collector plate, storage tank, circulation pump, valve, system expansion tank
 
 Key learning takeaways:
