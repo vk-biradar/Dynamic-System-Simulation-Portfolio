@@ -2,7 +2,7 @@
 A hands-on exploration of dynamic thermal-fluid system modelling projects in Modelica/ Dymola
 
 A collection of first-principles thermal system simulations built in Modelica / Dymola. This self-learning repository explores dynamic heat transfer, mass flow transport, and transient fluid behavior across three practical engineering loops: 
-- Closed-Loop Data Center Thermal-Fluid System (In Progress)
+- A Closed-Loop Data Center Thermal-Fluid System (In Progress)
 - A 25 kW Data Center One-Way Heat Transfer
 - A Closed-Loop Solar Thermal System
 
