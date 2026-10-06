@@ -37,6 +37,7 @@ Key Components Built: SolarCollector, StorageTank, CirculationPump, Valve, Syste
 Key learning takeaways:
 - Applied basic mass and energy balance equations directly into Modelica code.
 - Practiced structuring custom, simple components with thermal and fluid ports.
+- Resolved stream connector circularities and singular matrix errors through explicit forward stream assignments and non-circular enthalpy formulations.
 - Learned how solver settings and component parameterization impact numerical stability in Dymola.
 
 
