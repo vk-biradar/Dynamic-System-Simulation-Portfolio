@@ -6,7 +6,7 @@ A collection of first-principles thermal system simulations built in Modelica / 
 - A 25 kW Data Center One-Way Heat Transfer
 - A Closed-Loop Solar Thermal System
 
-Project 1: A Multi-Loop 25kW Data Center Thermal-Fluid System
+Project 1: A Multi-Loop 25kW Data Center Thermal-Fluid System (In Progress)
 
 An advanced, fully coupled dual-loop (Air & Water) dynamic data center simulation focusing on closed-loop hydraulic integration.
 
